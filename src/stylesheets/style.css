@@ -1,0 +1,9 @@
+body {
+    color: darkgray;
+    background-color: darkgray;
+}
+
+.rectangle {
+    position: absolute;
+    border: 4px solid black;
+}
